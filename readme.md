@@ -1,6 +1,6 @@
-Html/css
-FLASK
-BANCO DE DADOS - MYsql
+- Html/css
+- FLASK
+- BANCO DE DADOS - MYsql
 
 
 Funcionalidades:
